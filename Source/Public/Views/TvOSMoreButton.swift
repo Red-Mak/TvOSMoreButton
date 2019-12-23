@@ -23,8 +23,8 @@
 //
 
 import Foundation
+import UIKit
 
-@objc
 open class TvOSMoreButton: UIView {
 
     /*
